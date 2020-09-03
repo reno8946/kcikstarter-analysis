@@ -9,7 +9,7 @@ Louise wants to know how different campaigns fared in relation to their launch d
 ### Analysis of Outcomes Based on Launch Date
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/70483866/92076647-8a4b2a00-ed80-11ea-9440-04c364615fd3.png)
 ### Analysis of Outcomes Based on Goals
-However, I was ultimately able to produce the chart in the image above.
+However, I was ultimately able to produce the chart in the image below.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/70483866/92076530-52dc7d80-ed80-11ea-85db-f5c5bfca103c.png)
 ### Challenges and Difficulties Encountered
 I didn't run into any major challenges except initially making the legend display all three percentage categories. So I added all three (Successful, Failed, and Canceled to the Legend Entries (Series) as shown in the image below.
