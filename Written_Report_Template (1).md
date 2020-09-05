@@ -15,17 +15,22 @@ For the Outcomes Based on Goals sheet, I first manually entered in all the collu
 ### Challenges and Difficulties Encountered
 I didn't run into any major challenges except initially making the legend display all three percentage categories. So I added all three (Successful, Failed, and Canceled to the Legend Entries (Series) as shown in the image below.
 ![image](https://user-images.githubusercontent.com/70483866/92077114-66d4af00-ed81-11ea-904f-b52d7d59c210.png)
+
 Additionally, had their been more money ranges for the goals collumn to enter in the Outcomes Based on Goals sheet, that would have been very tedious and long to manually enter in, so finding a more efficient way to enter those numbers into each cell within that collumn would be ideal.
 ![Goals](https://user-images.githubusercontent.com/70483866/92297002-4121e400-ef00-11ea-8169-deee740463ed.png)
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The successful theater campaigns launched starting in the early spring in March and were most successful at the very end of April into late May and then steadily decreased in    success over the remainder of the summer and into the fall. 
 Additionally, on average about roughly 40% of theater campaigns failed regardless of the launch date, with not much fluctuation between the ranges of approximately 35-45%.Finally, the percentage of canceled theater campaigns remained steadily at under 5% or so regardless of the launch date.
 
 - What can you conclude about the Outcomes based on Goals?
+
 The campaigns were most successful at goals of less than $15000 as well as from  about $35000-44999 and least successful from $450000 and above. The line for the successful campaigns and the line for the failed campaigns are just about exact inverses of each other (when one goes up, the other goes down).
+
 - What are some limitations of this dataset?
 Neither dataset accounts for country or average donation, which could serve as major determining factors in the success of a kickstarter campaign.
 - What are some other possible tables and/or graphs that we could create?
+
 We could perform a regression model to determine the relationship between success percentage of campaigns and multiple independent variables. We could also present the data in the form of a histogram to present the information in a different way.
