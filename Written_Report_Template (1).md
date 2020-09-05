@@ -17,6 +17,7 @@ I didn't run into any major challenges except initially making the legend displa
 ![image](https://user-images.githubusercontent.com/70483866/92077114-66d4af00-ed81-11ea-904f-b52d7d59c210.png)
 
 Additionally, had their been more money ranges for the goals collumn to enter in the Outcomes Based on Goals sheet, that would have been very tedious and long to manually enter in, so finding a more efficient way to enter those numbers into each cell within that collumn would be ideal.
+
 ![Goals](https://user-images.githubusercontent.com/70483866/92297002-4121e400-ef00-11ea-8169-deee740463ed.png)
 ## Results
 
