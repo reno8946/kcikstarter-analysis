@@ -30,7 +30,9 @@ Additionally, on average about roughly 40% of theater campaigns failed regardles
 The campaigns were most successful at goals of less than $15000 as well as from  about $35000-44999 and least successful from $450000 and above. The line for the successful campaigns and the line for the failed campaigns are just about exact inverses of each other (when one goes up, the other goes down).
 
 - What are some limitations of this dataset?
+
 Neither dataset accounts for country or average donation, which could serve as major determining factors in the success of a kickstarter campaign.
+
 - What are some other possible tables and/or graphs that we could create?
 
 We could perform a regression model to determine the relationship between success percentage of campaigns and multiple independent variables. We could also present the data in the form of a histogram to present the information in a different way.
